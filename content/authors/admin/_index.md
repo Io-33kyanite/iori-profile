@@ -48,7 +48,7 @@ interests:
 education:
   - area: PhD Engineering (Human-Centered Computing)
     institution: Akita University
-    date_start: 2022-04
+    date_start: 2022-04-01
     date_end: ''
     summary: |
       ---
