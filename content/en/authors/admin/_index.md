@@ -37,20 +37,24 @@ profiles:
     url: https://github.com/Io-33kyanite
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/iori33ky/
+  - icon: brands/google-scholar
+    url: https://scholar.google.co.jp/citations?hl=ja&user=w3GGF3QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0003-0216-8096
 
-Professional Membership:
+membership:
   - Association for Computing Machinery (ACM)
   - The Institute of Electrical and Electronics Engineers (IEEE)
   - 情報処理学会 (IPSJ, Information Processing Society of Japan)
   - 日本データベース学会 (DBSJ, The Database Society of Japan)
   - 日本地図学会（JCA, Japan Cartographers Association）
 
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Mobile Computing
+  - Geofencing
+  - Trajectory Data Mining
+  - Walking Tourism
+  - Data Ecosystem
 
 education:
   - area: PhD Engineering (Human-Centered Computing)

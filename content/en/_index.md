@@ -30,16 +30,46 @@ sections:
           size: cover
           position: center
           parallax: false
+
+  - block: collection
+    content:
+      title: ❐ Recent Publications ❐
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '❐ Research Highlights ❐'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        ### <center>Local Tourism Ecosystem Driven by Mobile Sensors</center>
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        <img width="100%" src="home/dg_local-tourism.png">
+
+        ---
+
+        #### ◉ Thematic Heatmapping and Scoring Methods for Developments of Walking Routes (2022–)
+
+        Establishing a cost-effective digital feedback system that contributes to the development of walking model routes, considering both spots and walking paths, is a challenge in fostering sustainable regional tourism. This study discusses a feedback system that contributes to the evaluation and improvement of existing model routes by mapping tourists’ access (attention) to tourist resources based on the automatic collection and analysis of mobile sensor data, which is standardly equipped on smartphones and other devices.
+
+
+        ---
+
+        #### ◉ Automatic Geofencing Design for Scalable Location-Based Services (2023–)
+
+        The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for urban human mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.
+
+        ---
+
+        #### ◉ Onsite Radio AI — Brand New Mobile Walking Tours in Local Cities (2024–)
+
+
+
     design:
       columns: '1'
   # - block: collection
@@ -53,16 +83,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+  
   # - block: collection
   #   id: talks
   #   content:

@@ -39,3 +39,5 @@ vignettes/*.pdf
 /go.sum
 /hugo_stats.json
 
+# mac
+.DS_Store
