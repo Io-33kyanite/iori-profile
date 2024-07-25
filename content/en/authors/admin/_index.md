@@ -41,6 +41,8 @@ profiles:
     url: https://scholar.google.co.jp/citations?hl=ja&user=w3GGF3QAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0000-0003-0216-8096
+  - icon: brands/youtube
+    url: https://www.youtube.com/@iorisasaki1652
 
 membership:
   - Association for Computing Machinery (ACM)

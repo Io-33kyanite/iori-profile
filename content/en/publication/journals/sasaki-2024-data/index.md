@@ -1,5 +1,5 @@
 ---
-title: Data-Driven Geofencing Design for Point-of-Interest Notifiers Utilizing Genetic
+title: Data-Driven Geofencing Design for Point-Of-Interest Notifiers Utilizing Genetic
   Algorithm
 authors:
 - Iori Sasaki
@@ -8,11 +8,11 @@ authors:
 - Tomihiro Utsumi
 - Ryo Sato
 date: '2024-01-01'
-publishDate: '2024-07-24T10:09:25.434164Z'
+publishDate: '2024-07-25T05:35:50.932096Z'
 publication_types:
 - article-journal
 publication: '*ISPRS International Journal of Geo-Information*'
-doi: 10.3390/ijgi13060174
+doi: DOI = 10.3390/ijgi13060174
 abstract: 'This study proposes a method for generating geofences driven by GPS trajectory
   data to realize scalable point-of-interest (POI) notifiers, encouraging walking
   tourists to discover new local spots. The case study revealed that manual geofence
@@ -27,7 +27,4 @@ abstract: 'This study proposes a method for generating geofences driven by GPS t
   survey among manual settings, settings incorporating a reliability simulation, and
   data-driven settings demonstrates significant performance improvements for geofence
   services.'
-links:
-- name: URL
-  url: https://www.mdpi.com/2220-9964/13/6/174
 ---

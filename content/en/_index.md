@@ -35,6 +35,7 @@ sections:
     content:
       title: ❐ Recent Publications ❐
       text: ""
+      count: 3
       filters:
         folders:
           - publication
@@ -55,14 +56,16 @@ sections:
 
         #### ◉ Thematic Heatmapping and Scoring Methods for Developments of Walking Routes (2022–)
 
-        Establishing a cost-effective digital feedback system that contributes to the development of walking model routes, considering both spots and walking paths, is a challenge in fostering sustainable regional tourism. This study discusses a feedback system that contributes to the evaluation and improvement of existing model routes by mapping tourists’ access (attention) to tourist resources based on the automatic collection and analysis of mobile sensor data, which is standardly equipped on smartphones and other devices.
+        <p style="font-size:90%; text-align:justify">Establishing a cost-effective digital feedback system that contributes to the development of walking model routes, considering both spots and walking paths, is a challenge in fostering sustainable regional tourism. This study discusses a feedback system that contributes to the evaluation and improvement of existing model routes by mapping tourists’ access (attention) to tourist resources based on the automatic collection and analysis of mobile sensor data, which is standardly equipped on smartphones and other devices.</p>
 
 
         ---
 
         #### ◉ Automatic Geofencing Design for Scalable Location-Based Services (2023–)
 
-        The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for urban human mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.
+        <img width="100%" src="home/graphical-abstract-topic2.png">
+
+        <p style="font-size:90%; text-align:justify">The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for urban human mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.</p>
 
         ---
 
