@@ -55,8 +55,8 @@ interests:
   - Mobile Computing
   - Geofencing
   - Trajectory Data Mining
-  - Walking Tourism
-  - Data Ecosystem
+  - Cartography
+  - Tourism informatics
 
 education:
   - area: PhD Engineering (Human-Centered Computing)
@@ -84,7 +84,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Swift, Flutter
         description: ''
         percent: 80
         icon: code-bracket

@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      # button:
+      #   text: Download CV
+      #   url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -38,26 +38,43 @@ sections:
       count: 3
       filters:
         folders:
-          - publication
+          - ref-list
         exclude_featured: false
+      archive:
+        enable: false
     design:
       view: citation
+      spacing:
+        padding: 
 
   - block: markdown
     content:
       title: '❐ Research Highlights ❐'
       subtitle: ''
       text: |-
-        ### <center>Local Tourism Ecosystem Driven by Mobile Sensors</center>
+        ### <center>Walking Tourism Ecosystem Driven by Mobile Applications</center>
 
-        <img width="100%" src="home/dg_local-tourism.png">
+        <p style="font-size:90%; text-align:justify">My research aims to enhance the ecosystem of destination tourism, contributing to the sustainability of both individuals and local communities.</p>
+
+        <p style="font-size:90%; text-align:justify"><span style="font-weight: bold;">From the Destination Manager's Perspective:</span> Walking tourism has become an attractive option for local businesses. This style of tourism adds value by combining multiple existing regional resources and stories, making it accessible to all regions. Digitalizing walking tourism can accelerate community-led initiatives and provide valuable urban-scale analytics.</p>
+
+        <p style="font-size:90%; text-align:justify"><span style="font-weight: bold;">From the Tourist's Perspective:</span> Walking tourism greatly enhances both personal health and cultural exploration. It is a low-impact exercise that improves cardiovascular health, strengthens muscles, and reduces stress and anxiety. Furthermore, walking allows tourists to deeply engage with their surroundings, fostering genuine interactions with locals and uncovering hidden cultural gems.</p>
+
+        <p style="font-size:90%; text-align:justify; color:gray;">"We have nothing special to visit in my hometown..."</p>
+        
+        <p style="font-size:90%; text-align:justify; color:gray;">"Actually, the real voyage of discovery consists not in seeking new landscapes, but in having new 'digital' eyes."</p>
 
         ---
 
         #### ◉ Thematic Heatmapping and Scoring Methods for Developments of Walking Routes (2022–)
 
+        <img width="100%" src="home/graphical-abstract-topic1.png">
+
         <p style="font-size:90%; text-align:justify">Establishing a cost-effective digital feedback system that contributes to the development of walking model routes, considering both spots and walking paths, is a challenge in fostering sustainable regional tourism. This study discusses a feedback system that contributes to the evaluation and improvement of existing model routes by mapping tourists’ access (attention) to tourist resources based on the automatic collection and analysis of mobile sensor data, which is standardly equipped on smartphones and other devices.</p>
 
+        <p style="font-size:70%; text-align:left; font-weight: bold;">references:</p>
+        <p style="font-size:70%; text-align:left;">[1] Sasaki et al. (2020). Articulated Trajectory Mapping for Reviewing Walking Tours. ISPRS Int. J. Geo-Inf. 9(10):610. <a href="https://doi.org/10.3390/ijgi9100610">https://doi.org/10.3390/ijgi9100610</a></p>
+        <p style="font-size:70%; text-align:left;">[2] Sasaki et al. (2023). Mobile Collaborative Heatmapping to Infer Self-Guided Walking Tourists’ Preferences for Geomedia.. ISPRS Int. J. Geo-Inf. 12(7):283. <a href="https://doi.org/10.3390/ijgi12070283">https://doi.org/10.3390/ijgi12070283</a></p>
 
         ---
 
@@ -65,13 +82,21 @@ sections:
 
         <img width="100%" src="home/graphical-abstract-topic2.png">
 
-        <p style="font-size:90%; text-align:justify">The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for urban human mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.</p>
+        <p style="font-size:90%; text-align:justify">The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for tourists' mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.</p>
+
+        <p style="font-size:70%; text-align:left; font-weight: bold;">references:</p>
+        <p style="font-size:70%; text-align:left;">[1] Sasaki et al. (2020). Data-Driven Geofencing Design for POI Notifiers Utilizing Genetic Algorithm. ISPRS Int. J. Geo-Inf. 13(6):174. <a href="https://doi.org/10.3390/ijgi13060174">https://doi.org/10.3390/ijgi13060174</a></p>
 
         ---
 
-        #### ◉ Onsite Radio AI — Brand New Mobile Walking Tours in Local Cities (2024–)
+        #### ◉ Onsite Radio App — Generative Audio Guide Driven by Hierarchical Geofencing and Large Language Models (2024–)
 
+        <img width="100%" src="home/graphical-abstract-topic3.png">
 
+        <p style="font-size:90%; text-align:justify">POI-based guide applications face challenges in local cities. When walking in areas with fewer notable spots, the opportunities for user interaction decrease, often resulting in silence due to a lack of content. Additionally, some tourists may deviate from the intended routes, disrupting the optimal flow designed to enhance regional experiences. Our proposal, incorporating hierarchical geofencing and conversation generation techniques, provides more flexible and continuous guide interactions through the Onsite Radio App. Simply press the play button, slip your smartphone into your pocket, and start walking. Every step you take will be transformed into captivating storytelling delivered by virtual characters.</p>
+
+        <p style="font-size:70%; text-align:left; font-weight: bold;">references:</p>
+        <p style="font-size:70%; text-align:left;"></p>
 
     design:
       columns: '1'

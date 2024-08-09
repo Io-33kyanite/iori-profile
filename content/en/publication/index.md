@@ -9,17 +9,17 @@ reading_time: false
 
 1. __<u>Iori Sasaki</u>__, et al. Hierarchical Geofencing for Location-Aware Generative Audio Tours… <span style="opacity:0.6;">[Under Review]</span>
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Data-Driven Geofencing Design for POI Notifiers Utilizing Genetic Algorithm, _ISPRS International Journal of Geo-Information_, vol.13, no.6: 174, 2024. DOI: [10.3390/ijgi13060174](https://doi.org/10.3390/ijgi13060174) <span style="opacity:0.6;">[Open Access]</span>
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Data-Driven Geofencing Design for POI Notifiers Utilizing Genetic Algorithm, _ISPRS International Journal of Geo-Information_, 13(6):174. [https://doi.org/10.3390/ijgi13060174](https://doi.org/10.3390/ijgi13060174) <span style="opacity:0.6;">[Open Access]</span>
     * <span style="opacity:0.6; font-size:90%;">Impact Factor: 3.4 (accepted on 23 May 2024)</span>
     * <span style="opacity:0.6; font-size:90%;">This paper was reviewed by five reviewers.</span>
     
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, and Ryo Sato (2023). Mobile Collaborative Heatmapping to Infer Self-Guided Walking Tourists’ Preferences for Geomedia. _ISPRS International Journal of Geo-Information_, vol.12, no.7: 283, 2023. DOI: [10.3390/ijgi12070283](https://doi.org/10.3390/ijgi12070283) <span style="opacity:0.6;">[Open Access]</span>
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, and Ryo Sato (2023). Mobile Collaborative Heatmapping to Infer Self-Guided Walking Tourists’ Preferences for Geomedia, _ISPRS International Journal of Geo-Information_, 12(7):283. [https://doi.org/10.3390/ijgi12070283](https://doi.org/10.3390/ijgi12070283) <span style="opacity:0.6;">[Open Access]</span>
     * <span style="opacity:0.6; font-size:90%;">This article belongs to the Special Issue Urban Geospatial Analytics Based on Crowdsourced Data.</span>
     * <span style="opacity:0.6; font-size:90%;">Impact Factor: 3.4 (accepted on 13 July 2023)</span>
     * <span style="opacity:0.6; font-size:90%;">This paper was reviewed by three reviewers.</span>
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa and Akinori Takahashi (2020). Articulated Trajectory Mapping for Reviewing Walking Tours, _ISPRS International Journal of Geo-Information_, vol.9, no.10: 610. DOI: [10.3390/ijgi9100610](https://doi.org/10.3390/ijgi9100610) <span style="opacity:0.6;">[Open Access]</span>
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa and Akinori Takahashi (2020). Articulated Trajectory Mapping for Reviewing Walking Tours, _ISPRS International Journal of Geo-Information_, 9(10):610. [https://doi.org/10.3390/ijgi9100610](https://doi.org/10.3390/ijgi9100610) <span style="opacity:0.6;">[Open Access]</span>
     * <span style="opacity:0.6; font-size:90%;">This article belongs to the Special Issue Recent Trends in Location Based Services and Science.</span>
     * <span style="opacity:0.6; font-size:90%;">Impact Factor: 2.239 (accepted on 19 October 2020)</span>
     * <span style="opacity:0.6; font-size:90%;">This paper was reviewed by three reviewers.</span>
@@ -27,15 +27,45 @@ reading_time: false
 
 ### Full Paper (peer-reviewed)
 
-Under construction...
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Generative Live Commentries Interacting with Geospatial Context for Promoting Local Festivals, _6th International Conference on Virtual Reality and Image Processing (VRIP2024)_, Macao, SAR China, 14–16 September 2024.
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://www.vrip.org/](https://www.vrip.org/)</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Ryo Sato, and Tomihiro Utsumi (2023). Adaptable Data-Driven Geofences for Notifying Points of Interest Using Tourists’ GPS Trajectories, In _Proceedings of the 7th ACM SIGSPATIAL International Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec’23)_, Hamburg, German, 13–16 November 2023, pp. 37–43. [https://doi.org/10.1145/3615896.3628343](https://doi.org/10.1145/3615896.3628343)
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://localrec.github.io/2023/](https://localrec.github.io/2023/)</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, and Ryo Sato (2023). Thematic Geo-Density Heatmapping for Walking Tourism Analytics using Semi-Ready GPS Trajectories, _The 7th IEEE International Workshop on Big Spatial Data In Conjunction with the 2022 IEEE International Conference on Big Data (BSD’22)_, Osaka, Japan, 17–20 December 2022, pp. 4944-4951. [https://doi.org/10.1109/BigData55660.2022.10020743](https://doi.org/10.1109/BigData55660.2022.10020743)
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://cse.ucdenver.edu/~BSD2022/](https://cse.ucdenver.edu/~BSD2022/)</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, and Min Lu (2022). Adaptive visualization of tourists’ preferred spots and streets using trajectory articulation. In _Proceedings of the 2nd ACM SIGSPATIAL International Workshop on Animal Movement Ecology and Human Mobility (HANIMOB ’22)_, Seattle, WA, USA, 1–4 November 2022, pp. 27–32. [https://doi.org/10.1145/3557921.3565539](https://doi.org/10.1145/3557921.3565539) <span style="opacity:0.6;">[ACM Travel Grant Award]</span>
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://hanimob.github.io/2022/](https://hanimob.github.io/2022/)</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Ryo Sato, and Akinori Takahashi (2022). Tourists Preferred Streets Visualization Using Articulated GPS Trajectories Driven by Mobile Sensors, _19th International Symposium on Web and Wireless Geographical Information Systems (W2GIS2022)_, Constance, Germany (Online), 28–29 April 2022, pp. 43–50. [https://doi.org/10.1007/978-3-031-06245-2_4](https://doi.org/10.1007/978-3-031-06245-2_4)
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://sites.google.com/view/w2gis22](https://sites.google.com/view/w2gis22)</span>
+    * <span style="opacity:0.6; font-size:90%;">The conference was held online.</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, and Ryo Sato (2022). GNSS Trajectory Storytelling Using Mobile Environments, International Conference on Human-Computer Interaction (HCII2022), 26 June to 1 July 2022, pp. 254–260. [https://doi.org/10.1007/978-3-031-06417-3_35](https://doi.org/10.1007/978-3-031-06417-3_35)
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://2022.hci.international/](https://2022.hci.international/)</span>
+    * <span style="opacity:0.6; font-size:90%;">The conference was held online due to COVID-19.</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa and Akinori Takahashi (2020). Articulated Trajectory Mapping Using Mobile Environments for Location-Based Learning, In _Proceedings of the 11th International Conference on Advances in Information Technology (IAIT2020)_, Bangkok, Thailand, 1–3 July 2020, no. 17, pp. 1–6. [https://doi.org/10.1145/3406601.3406622](https://doi.org/10.1145/3406601.3406622)
+    * <span style="opacity:0.6; font-size:90%;">The official website: [https://www.iait-conf.org/2020/](https://www.iait-conf.org/2020/)</span>
+    * <span style="opacity:0.6; font-size:90%;">The conference was held online due to COVID-19.</span>
+
 
 ### Abstract (peer-reviewed)
 
-Under construction...
+1. Min Lu, Sang Tran, __<u>Iori Sasaki</u>__, and Masatoshi Arikawa (2024). Bridging Traditional and Digital Cartography: Techniques in Dynamic Local Georeferencing, _AsiaCarto2024_.
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Geofence-to-Conversation: Hierarchical Geofencing for Augmenting City Walks with Large Language Models, _26th International Conference on Mobile Human-Computer Interaction (MOBILEHCI Adjunct ’24)_, Melbourne, VIC, Australia, September 30-October 3, 2024. [https://doi.org/10.1145/3640471.3680446](https://doi.org/10.1145/3640471.3680446)
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, and Ryo Sato (2023). Educational Potential of Map Storytelling Creation using Data Objects-Driven Mobile Mapping Toolkit – KoPpoMai, 31st International Cartographic Conference (ICC2023), Cape Town, South Africa, 13–18 August 2023, _Abstracts of the ICA_, 6:1-2. [https://doi.org/10.5194/ica-abs-6-220-2023](https://doi.org/10.5194/ica-abs-6-220-2023)
+
 
 ### MISC
 
-Under construction...
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Tomokazu Tamura, and Min Lu (2023). Concept Design of Generative Location-Based Audio Tours, _Workshop of the Commission on Ubiquitous Mapping and Commission on Maps and the Internet organized as part of 31st International Cartographic Conference_, Cape Town, South Africa, 12 August 2023. <span style="opacity:0.6;">[Presentation]</span>
+
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Ryo Sato, and Akinori Takahashi (2021). Semantic GPS Trajectory Representation via Articulation Processings, Workshop of the Commission on Maps and the Internet and Commission on Ubiquitous Mapping organized as part of 30th International Cartographic Conference, 2021. <span style="opacity:0.6;">[Presentation]</span>
 
 
 <br><br>
@@ -47,6 +77,7 @@ Under construction...
 ### Journal (peer-reviewed)
 
 1. __<u>佐々木一織</u>__，有川正俊，Lu Min，内海富博，佐藤諒：まち歩き向け位置情報サービス改善のためのセンサデータ駆動型ライフサイクルの実証，日本地図学会機関紙「地図」（2024）<span style="opacity:0.6;">[Accepted]</span>
+    * <span style="opacity:0.6; font-size:90%;">[Engish Title] Verification of Sensor Data-Driven Lifecycle for Improvement of Location-Based Services in Walking Tourism</span>
 
 ### Full Paper (peer-reviewed)
 
@@ -102,16 +133,36 @@ no data...
 
 ## <center>Media</center>
 
+* [新聞掲載/Newspapers] AIがイベントガイド　秋大とNTT紹介，読売新聞 23面 (2024年5月26日 発行)．コースHP: [https://www.ie.akita-u.ac.jp/hcc2/archives/4211](https://www.ie.akita-u.ac.jp/hcc2/archives/4211)
+
+* [新聞掲載/Newspapers] 秋田の史跡　スマホでたどる，朝日新聞 17面 (2022年8月15日 発行)．デジタル版URL: [https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html](https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html)
+
+* [秋田大学同窓会誌/Magazines] 佐々木一織，有川正俊，スマートフォンでマイニングする秋田の歴史とこれからの観光DX，「北光」電子版第6号(2022年11月発刊)．URL: [http://www.hokkokai.com/ebooks/book221101/#target/page_no=1](http://www.hokkokai.com/ebooks/book221101/#target/page_no=1)
+
 <br><br>
 
 ---
 
 ## <center>Grant</center>
 
+* [JSPS科研費] まち歩きを対象としたデータ駆動型地域づくりのためのGPS軌跡分節化手法の研究 (特別研究員奨励費，期間：2022.04-2025.03)
+
+* [助成金] 情報科学国際交流財団(International Information Science Foundation) 2020年度国際会議参加登録助成 (2020.10)
+
 <br><br>
 
 ---
 
 ## <center>Award</center>
+
+* ACM SIGSPATIAL 2022 Travel Grant Award (2022.11)
+
+* 令和3年度 秋田大学研究科長表彰 (2022.03)
+
+* 学生奨励賞 受賞．情報処理学会第83回全国大会 (2021.03)
+
+* 令和2年度 秋田大学研究科長表彰 (2021.03)
+
+* 学生奨励賞 受賞．情報処理学会第82回全国大会 (2020.03)
 
 <br><br>
