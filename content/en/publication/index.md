@@ -43,7 +43,7 @@ reading_time: false
     * <span style="opacity:0.6; font-size:90%;">The official website: [https://sites.google.com/view/w2gis22](https://sites.google.com/view/w2gis22)</span>
     * <span style="opacity:0.6; font-size:90%;">The conference was held online.</span>
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, and Ryo Sato (2022). GNSS Trajectory Storytelling Using Mobile Environments, International Conference on Human-Computer Interaction (HCII2022), 26 June to 1 July 2022, pp. 254–260. [https://doi.org/10.1007/978-3-031-06417-3_35](https://doi.org/10.1007/978-3-031-06417-3_35)
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, and Ryo Sato (2022). GNSS Trajectory Storytelling Using Mobile Environments, _International Conference on Human-Computer Interaction (HCII2022)_, 26 June to 1 July 2022, pp. 254–260. [https://doi.org/10.1007/978-3-031-06417-3_35](https://doi.org/10.1007/978-3-031-06417-3_35)
     * <span style="opacity:0.6; font-size:90%;">The official website: [https://2022.hci.international/](https://2022.hci.international/)</span>
     * <span style="opacity:0.6; font-size:90%;">The conference was held online due to COVID-19.</span>
 
@@ -65,7 +65,7 @@ reading_time: false
 
 1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Tomokazu Tamura, and Min Lu (2023). Concept Design of Generative Location-Based Audio Tours, _Workshop of the Commission on Ubiquitous Mapping and Commission on Maps and the Internet organized as part of 31st International Cartographic Conference_, Cape Town, South Africa, 12 August 2023. <span style="opacity:0.6;">[Presentation]</span>
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Ryo Sato, and Akinori Takahashi (2021). Semantic GPS Trajectory Representation via Articulation Processings, Workshop of the Commission on Maps and the Internet and Commission on Ubiquitous Mapping organized as part of 30th International Cartographic Conference, 2021. <span style="opacity:0.6;">[Presentation]</span>
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Ryo Sato, and Akinori Takahashi (2021). Semantic GPS Trajectory Representation via Articulation Processings, _Workshop of the Commission on Maps and the Internet and Commission on Ubiquitous Mapping organized as part of 30th International Cartographic Conference_, online, 2021. <span style="opacity:0.6;">[Presentation]</span>
 
 
 <br><br>
@@ -88,6 +88,8 @@ no data...
 no data...
 
 ### MISC
+
+1. 江口颯，__<u>佐々木一織</u>__，有川正俊，Lu Min，内海富博，佐藤諒：ジオフェンシングに基づく観光ビデオブログ生成アプリケーションの開発，2024年度電気関係学会東北支部連合大会，2E01（秋田県立大学，2024.08.30）
 
 1. 田村智一，__<u>佐々木一織</u>__，有川正俊，Lu Min，佐藤諒，内海富博：空間クラスタリングを用いたGPSデータ駆動型円形ジオフェンス生成手法の提案と検証，2023年度情報処理学会東北支部研究会（秋田大学，2023.11）
 
