@@ -133,11 +133,17 @@ no data...
 
 ## <center>Media</center>
 
-* [新聞掲載/Newspapers] AIがイベントガイド　秋大とNTT紹介，読売新聞 23面 (2024年5月26日 発行)．コースHP: [https://www.ie.akita-u.ac.jp/hcc2/archives/4211](https://www.ie.akita-u.ac.jp/hcc2/archives/4211)
+* [テレビ出演/TV] 秋田学くんの課外授業 〜秋田の大学を知りたい！〜，AAB秋田朝日放送 (2024.07.20 放映)．紹介URL: [https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/](https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/)
 
-* [新聞掲載/Newspapers] 秋田の史跡　スマホでたどる，朝日新聞 17面 (2022年8月15日 発行)．デジタル版URL: [https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html](https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html)
+* [新聞掲載/Newspapers] AIがイベントガイド　秋大とNTT紹介，読売新聞 23面 (2024.05.26 発行)．コースHP: [https://www.ie.akita-u.ac.jp/hcc2/archives/4211](https://www.ie.akita-u.ac.jp/hcc2/archives/4211)
 
-* [秋田大学同窓会誌/Magazines] 佐々木一織，有川正俊，スマートフォンでマイニングする秋田の歴史とこれからの観光DX，「北光」電子版第6号(2022年11月発刊)．URL: [http://www.hokkokai.com/ebooks/book221101/#target/page_no=1](http://www.hokkokai.com/ebooks/book221101/#target/page_no=1)
+* [新聞掲載/Newspapers] 秋田の史跡　スマホでたどる，朝日新聞 17面 (2022.08.15 発行)．デジタル版URL: [https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html](https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html)
+
+* [秋田大学同窓会誌/Magazines] 佐々木一織，有川正俊，スマートフォンでマイニングする秋田の歴史とこれからの観光DX，「北光」電子版第6号(2022.11 発刊)．URL: [http://www.hokkokai.com/ebooks/book221101/#target/page_no=1](http://www.hokkokai.com/ebooks/book221101/#target/page_no=1)
+
+* [YouTube] どんな研究室があるの？，秋田大学オープンキャンパス動画 (2022-)．URL: [https://www.akita-u.ac.jp/admission/ooc_2024/](https://www.akita-u.ac.jp/admission/ooc_2024/)
+
+* [YouTube] 現役秋大生と一緒にコース探検 人間情報工学コース，秋田大学オンラインオープンキャンパス (2020.08.26 公開，__現在非公開__)．
 
 <br><br>
 
@@ -166,3 +172,50 @@ no data...
 * 学生奨励賞 受賞．情報処理学会第82回全国大会 (2020.03)
 
 <br><br>
+
+---
+
+## <center>Educational Activities</center>
+
+* __Support Staff of Akita University Schooling__ - "情報工学概論" (2024.07.20)
+    * 秋田大学学内スクーリングの補助
+
+* __Teaching Assistant__ - "創造工房実習"　(2023)
+
+* __Teaching Assistant__ - "基礎情報学"　(2023)
+    * Support undergraduated students for the fundamental Python programming
+
+* __Support Staff of Science Lab. for Honjo High School__　(2023)
+    * 本荘高校サイエンスラボの補助
+    * 「GPSセンサーとイラストマップを用いた位置情報サービス(LBS)入門」
+
+* __Teaching Assistant__ - "創造工房実習"　(2022)
+
+* __Support Staff of One-Day College for Honjo High School__　(2022.07.06)
+    * 本荘高校出前講義の補助
+
+* __Teaching Assistant__ - "創造工房実習"　(2021)
+
+* __Teaching Assistant__ - "創造工房実習"　(2020)
+
+
+<br><br>
+
+---
+
+## <center>Social Activities</center>
+
+* __Research Exhibition__ with NTT East Corp. in Akita City festival (2024.05.25-26)
+    * これが秋田だ！食と芸能大祭典2024
+
+* __Application Release__ cooperated with Akita City (2022-)
+    * きつねあるき（Kitsune-aruki）
+    * Tailored for self-guided walking tourism in Akita City
+
+* __Application Release__ for the Open Campus in Akita University (2022-2023)
+    * Location-based walking guide in Tegata Campus of Akita University
+    * TegaWalk (2022, main developer)
+    * TegaRally (2023, technical adviser)
+
+* __Opening Presentation__ in ICA Joint Workshop on Future Internet and Ubiquitous Cartography (2019)
+    * Titled "Akita City is A Typical Samurai Castle Town"
