@@ -65,6 +65,12 @@ education:
     date_end: ''
     summary: |
       ---
+  - area: Management of Technology Program
+    institution: Akita University
+    date_start: 2020-04-01
+    date_end: 2022-03-31
+    summary: |
+      ---
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
