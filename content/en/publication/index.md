@@ -135,7 +135,7 @@ no data...
 
 ## <center>Media</center>
 
-* [テレビ出演/TV] 秋田学くんの課外授業 〜秋田の大学を知りたい！〜，AAB秋田朝日放送 (2024.07.20 放映)．紹介URL: [https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/](https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/)
+* [テレビ出演/TV] 秋田学くんの課外授業 〜秋田の大学を知りたい！〜，「サタナビっ!」AAB秋田朝日放送 (2024.07.20 放映)．紹介URL: [https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/](https://www.aab-tv.co.jp/navi/backnumber/2024/07/20/)
 
 * [新聞掲載/Newspapers] AIがイベントガイド　秋大とNTT紹介，読売新聞 23面 (2024.05.26 発行)．コースHP: [https://www.ie.akita-u.ac.jp/hcc2/archives/4211](https://www.ie.akita-u.ac.jp/hcc2/archives/4211)
 
