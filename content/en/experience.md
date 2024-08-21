@@ -22,12 +22,12 @@ sections:
   - block: markdown
     content:
       title: Professional Membership
-      text:
-* Association for Computing Machinery (ACM)
-* The Institute of Electrical and Electronics Engineers (IEEE)
-* 情報処理学会 (IPSJ, Information Processing Society of Japan)
-* 日本データベース学会 (DBSJ, The Database Society of Japan)
-* 日本地図学会（JCA, Japan Cartographers Association）
+      text: |-
+        * Association for Computing Machinery (ACM)
+        * The Institute of Electrical and Electronics Engineers (IEEE)
+        * 情報処理学会 (IPSJ, Information Processing Society of Japan)
+        * 日本データベース学会 (DBSJ, The Database Society of Japan)
+        * 日本地図学会（JCA, Japan Cartographers Association）
   
 
 
