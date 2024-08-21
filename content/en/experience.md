@@ -18,7 +18,20 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  # - block: resume-awards
+
+  - block: markdown
+    content:
+      title: Professional Membership
+      text: |
+* Association for Computing Machinery (ACM)
+* The Institute of Electrical and Electronics Engineers (IEEE)
+* 情報処理学会 (IPSJ, Information Processing Society of Japan)
+* 日本データベース学会 (DBSJ, The Database Society of Japan)
+* 日本地図学会（JCA, Japan Cartographers Association）
+  
+
+
+
   # - block: resume-skills
   #   content:
   #     title: Skills & Hobbies

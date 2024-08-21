@@ -76,13 +76,13 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      ---
+      Arikawa Lab.
   - area: Bachelor of Engineering
     institution: Akita University
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      ---
+      Arikawa Lab.
 
 work:
   - position: Research Fellow (DC1)
