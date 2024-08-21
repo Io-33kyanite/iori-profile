@@ -4,7 +4,7 @@ reading_time: false
 ---
 
 
-__Experience and Education are described [here](../experience.md)__
+__📌 Experience and Education are described [here](../experience/)__
 
 <br>
 
