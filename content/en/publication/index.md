@@ -91,11 +91,15 @@ no data...
 
 1. 江口颯，__<u>佐々木一織</u>__，有川正俊，Lu Min，内海富博，佐藤諒：ジオフェンシングに基づく観光ビデオブログ生成アプリケーションの開発，2024年度電気関係学会東北支部連合大会，2E01（秋田県立大学，2024.08.30）
 
+1. 伊藤香織，若林芳樹，森田喬，矢野桂司，__<u>佐々木一織</u>__，吉田桃子，川井拓弥，石川初：第31回国際地図学会議・第19回国際地図学協会総会（南アフリカ共和国・ケープタウン市）参加報告，日本地図学会機関誌「地図」61(4)．（2023）
+
 1. 田村智一，__<u>佐々木一織</u>__，有川正俊，Lu Min，佐藤諒，内海富博：空間クラスタリングを用いたGPSデータ駆動型円形ジオフェンス生成手法の提案と検証，2023年度情報処理学会東北支部研究会（秋田大学，2023.11）
 
 1. 田村智一，__<u>佐々木一織</u>__，有川正俊，Lu Min，佐藤諒，内海富博：GPSログデータのクラスタリングによる滞在場所の検出とジオフェンスの自動生成，2023年度電気関係学会東北支部連合大会（岩手県立大学，2023.09.05）
 
 1. 加賀谷星也，__<u>佐々木一織</u>__，渡辺海斗，田村智一，髙橋大晟，Lu Min，佐藤諒，内海富博，有川正俊：ブース型イベント体験向上のためのデジタルスタンプラリーの枠組みのデザインと実証実験，エンターテイメントコンピューティングシンポジウム2023（東京工科大学，2023.08.31）
+
+1. __<u>佐々木一織</u>__，有川正俊：スマートフォンでマイニングする秋田の歴史とこれからの観光DX，「北光」電子版第6号(2022.11 発刊)．URL: [http://www.hokkokai.com/ebooks/book221101/#target/page_no=1](http://www.hokkokai.com/ebooks/book221101/#target/page_no=1)
 
 1. __<u>佐々木一織</u>__，有川正俊，佐藤諒，髙橋秋典：柔軟かつ低コストな歩行ルート分析のための分節化GPSビッグデータ構築プロセスの提案，情報処理学会 第84回全国大会，4B-01（2022.03）
 
@@ -141,8 +145,6 @@ no data...
 
 * [新聞掲載/Newspapers] 秋田の史跡　スマホでたどる，朝日新聞 17面 (2022.08.15 発行)．デジタル版URL: [https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html](https://www.asahi.com/articles/ASQ8G6S9MQ88ULUC00V.html)
 
-* [秋田大学同窓会誌/Magazines] 佐々木一織，有川正俊，スマートフォンでマイニングする秋田の歴史とこれからの観光DX，「北光」電子版第6号(2022.11 発刊)．URL: [http://www.hokkokai.com/ebooks/book221101/#target/page_no=1](http://www.hokkokai.com/ebooks/book221101/#target/page_no=1)
-
 * [YouTube] どんな研究室があるの？，秋田大学オープンキャンパス動画 (2022-)．URL: [https://www.akita-u.ac.jp/admission/ooc_2024/](https://www.akita-u.ac.jp/admission/ooc_2024/)
 
 * [YouTube] 現役秋大生と一緒にコース探検 人間情報工学コース，秋田大学オンラインオープンキャンパス (2020.08.26 公開，__現在非公開__)．
@@ -179,27 +181,27 @@ no data...
 
 ## <center>Educational Activities</center>
 
-* __Support Staff of Akita University Schooling__ - "情報工学概論" (2024.07.20)
+* __Teaching Assistant__ - "Creative Practice/創造工房実習" at Akita University　(2020-2024)
+
+* __Support Staff for Akita University Schooling__ - "Intro. to Information Engineering/情報工学概論" (2024.07.20)
     * 秋田大学学内スクーリングの補助
 
-* __Teaching Assistant__ - "創造工房実習"　(2023)
-
-* __Teaching Assistant__ - "基礎情報学"　(2023)
-    * Support undergraduated students for the fundamental Python programming
+* __Teaching Assistant__ - "基礎情報学" at Akita University　(2020, 2023)
+    * Assisted undergraduate students with the fundamental Python programming
 
 * __Support Staff of Science Lab. for Honjo High School__　(2023)
     * 本荘高校サイエンスラボの補助
     * 「GPSセンサーとイラストマップを用いた位置情報サービス(LBS)入門」
-
-* __Teaching Assistant__ - "創造工房実習"　(2022)
+    * Introduction to location-based services using GPS sensors and illustrated maps
 
 * __Support Staff of One-Day College for Honjo High School__　(2022.07.06)
     * 本荘高校出前講義の補助
 
-* __Teaching Assistant__ - "創造工房実習"　(2021)
+* __Teaching Assistant__ - "Labratory for Computer Science and Engineering II/情報工学実験II" at Akita University (2021)
+    * Assisted undergraduate students with learning the basics of machine language, image processing, embedded system, packet analysis, CG creation, etc...
 
-* __Teaching Assistant__ - "創造工房実習"　(2020)
-
+* __Teaching Assistant__ - "Data Mining/データマイニング" at Akita University (2020)
+    * Assisted undergraduate students with leaning R language and methods for data operation, analysis, and visualization.
 
 <br><br>
 
