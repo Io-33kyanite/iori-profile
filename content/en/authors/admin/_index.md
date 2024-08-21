@@ -59,21 +59,30 @@ interests:
   - Tourism informatics
 
 education:
-  - area: PhD Engineering (Human-Centered Computing)
+  - area: PhD Engineering
     institution: Akita University
     date_start: 2022-04-01
     date_end: ''
     summary: |
-      ---
+      Currently pursuing a Ph.D. Supervised by Prof. Masatoshi Arikawa.
   - area: Management of Technology Program
     institution: Akita University
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
       ---
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+  - area: Master of Engineering
+    institution: Akita University
+    date_start: 2020-04-01
+    date_end: 2022-03-31
+    summary: |
+      ---
+  - area: Bachelor of Engineering
+    institution: Akita University
+    date_start: 2016-04-01
+    date_end: 2020-03-31
+    summary: |
+      ---
 
 work:
   - position: Research Fellow (DC1)
@@ -87,43 +96,43 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Swift, Flutter
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Swift, Flutter
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: Data Science
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: SQL
+#         description: ''
+#         percent: 40
+#         icon: circle-stack
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking
+#         description: ''
+#         percent: 60
+#         icon: person-simple-walk
+#       - name: Cats
+#         description: ''
+#         percent: 100
+#         icon: cat
+#       - name: Photography
+#         description: ''
+#         percent: 80
+#         icon: camera
 
-languages:
-  - name: Japanese
-    percent: 100
-  - name: English
-    percent: 60
+# languages:
+#   - name: Japanese
+#     percent: 100
+#   - name: English
+#     percent: 60
 
 ---
 
