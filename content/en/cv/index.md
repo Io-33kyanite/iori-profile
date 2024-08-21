@@ -3,6 +3,46 @@ title: CV
 reading_time: false
 ---
 
+
+## <center>Education</center>
+
+__Currently pursuing a Ph.D. - Akita University (2022-)__
+
+<br>
+
+__Completed minor program in Management of Technology - Akita University (2022)__
+
+<br>
+
+__Master of Engineering - Akita University (2022)__
+
+Thesis: モバイルセンサを用いたGNSS軌跡データの分節化手法の提案と評価 / Proposal and Evaluation of Articulation Method for GNSS Trajectory Data Using Mobile Sensors．[in Japanese]
+
+— Recording GNSS trajectory data to visualize an individual’s movement on a map is an effective way to communicate behavioral experiences both intuitively and objectively. This study highlights the need for characterization and simplification to enhance user interfaces. Consequently, the paper proposes an algorithm named Multiple Mobile Sensor-Based Articulation, which analyzes walkers’ behaviors through mobile sensor fusion and enriches the review of their walking tours.
+
+<br>
+
+__Bachelor of Engineering - Akita University (2020)__
+
+Thesis: イラスト表現と位置情報を活用した、まちあるき体験の記録・視覚化 —『あきた羽州街道 時を超えた散歩道』を例に— / Digital Diary of Walking Tours Utilizing Illustrated Maps and GPS Trajectory — “Akita Ushu Kaido: Walks beyond Time” as an Example．[in Japanese]
+
+— This study explores “human-centered mapping,” which enhances walking tour experiences by integrating analog map-based guidebooks with mobile environments. Walking tour experiences are categorized into ‘during-walking’ and ‘post-walking’ phases. We designed and implemented three key functions: (1) searching for and finding guide information, (2) a multimedia recording interface, and (3) a feature for reliving the recorded data.
+
+<br><br>
+
+---
+
+## <center>Professional Membership</center>
+* Association for Computing Machinery (ACM)
+* The Institute of Electrical and Electronics Engineers (IEEE)
+* 情報処理学会 (IPSJ: Information Processing Society of Japan)
+* 日本データベース学会 (DBSJ: The Database Society of Japan)
+* 日本地図学会（JCA: Japan Cartographers Association）
+
+<br><br>
+
+---
+
 ## <center>International Publications</center>
 
 ### Journal (peer-reviewed)
@@ -112,26 +152,6 @@ no data...
 1. __<u>佐々木一織</u>__，有川正俊，髙橋秋典：ユーザによる見返しに配慮した軌跡ログ表示の地理的な要約手法の検討，情報処理学会第82回全国大会，4ZH-03（オンライン発表，2020.03）
 
 1. 有川正俊，__<u>佐々木一織</u>__，Lu Min, Si Ruochen , 髙橋秋典：縮尺とモバイル利用環境を考慮した階層型ジオレファレンスの提案，2019年度電気関係学会東北支部連合大会，1J07（秋田，2019.08）
-
-<br><br>
-
----
-
-## <center>Thesis</center>
-
-* Doctor's thesis in 2025?
-
-<br>
-
-* Master’s thesis in 2022: 佐々木一織，モバイルセンサを用いたGNSS軌跡データの分節化手法の提案と評価 / Proposal and Evaluation of Articulation Method for GNSS Trajectory Data Using Mobile Sensors．[in Japanese]
-
-— Recording GNSS trajectory data to visualize an individual’s movement on a map is an effective way to communicate behavioral experiences both intuitively and objectively. This study highlights the need for characterization and simplification to enhance user interfaces. Consequently, the paper proposes an algorithm named Multiple Mobile Sensor-Based Articulation, which analyzes walkers’ behaviors through mobile sensor fusion and enriches the review of their walking tours.
-
-<br>
-
-* Bachelor’s thesis in 2020: 佐々木一織，イラスト表現と位置情報を活用した、まちあるき体験の記録・視覚化 —『あきた羽州街道 時を超えた散歩道』を例に— / Digital Diary of Walking Tours Utilizing Illustrated Maps and GPS Trajectory — “Akita Ushu Kaido: Walks beyond Time” as an Example．[in Japanese]
-
-— This study explores “human-centered mapping,” which enhances walking tour experiences by integrating analog map-based guidebooks with mobile environments. Walking tour experiences are categorized into ‘during-walking’ and ‘post-walking’ phases. We designed and implemented three key functions: (1) searching for and finding guide information, (2) a multimedia recording interface, and (3) a feature for reliving the recorded data.
 
 <br><br>
 
