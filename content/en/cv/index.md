@@ -1,9 +1,9 @@
 ---
-title: Publications
+title: CV
 reading_time: false
 ---
 
-## <center>International</center>
+## <center>International Publications</center>
 
 ### Journal (peer-reviewed)
 
@@ -72,7 +72,7 @@ reading_time: false
 
 ---
 
-## <center>Domestic</center>
+## <center>Domestic Publications</center>
 
 ### Journal (peer-reviewed)
 

@@ -7,8 +7,8 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Publications
-    url: /publication
+  - name: CV
+    url: /cv
     weight: 11
   - name: Services
     url: /service
