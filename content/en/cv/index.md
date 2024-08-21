@@ -14,7 +14,7 @@ __📌 Experience and Education are described [here](../experience/)__
 
 ### Journal (peer-reviewed)
 
-1. __<u>Iori Sasaki</u>__, et al. Hierarchical Geofencing for Location-Aware Generative Audio Tours… <span style="opacity:0.6;">[Under Review]</span>
+1. __<u>Iori Sasaki</u>__, et al. Hierarchical Geofencing for Location-Aware Generative Audio Tours… <span style="opacity:0.6;">[In review]</span>
 
 1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Data-Driven Geofencing Design for POI Notifiers Utilizing Genetic Algorithm, _ISPRS International Journal of Geo-Information_, 13(6):174. [https://doi.org/10.3390/ijgi13060174](https://doi.org/10.3390/ijgi13060174) <span style="opacity:0.6;">[Open Access]</span>
     * <span style="opacity:0.6; font-size:90%;">Impact Factor: 3.4 (accepted on 23 May 2024)</span>
@@ -34,7 +34,7 @@ __📌 Experience and Education are described [here](../experience/)__
 
 ### Full Paper (peer-reviewed)
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Generative Live Commentries Interacting with Geospatial Context for Promoting Local Festivals, _6th International Conference on Virtual Reality and Image Processing (VRIP2024)_, Macao, SAR China, 14–16 September 2024.
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Generative Live Commentries Interacting with Geospatial Context for Promoting Local Festivals, _6th International Conference on Virtual Reality and Image Processing (VRIP2024)_, Macao, SAR China, 14–16 September 2024. [Just accepted]
     * <span style="opacity:0.6; font-size:90%;">The official website: [https://www.vrip.org/](https://www.vrip.org/)</span>
 
 1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Ryo Sato, and Tomihiro Utsumi (2023). Adaptable Data-Driven Geofences for Notifying Points of Interest Using Tourists’ GPS Trajectories, In _Proceedings of the 7th ACM SIGSPATIAL International Workshop on Location-based Recommendations, Geosocial Networks and Geoadvertising (LocalRec’23)_, Hamburg, German, 13–16 November 2023, pp. 37–43. [https://doi.org/10.1145/3615896.3628343](https://doi.org/10.1145/3615896.3628343)
@@ -61,9 +61,9 @@ __📌 Experience and Education are described [here](../experience/)__
 
 ### Abstract (peer-reviewed)
 
-1. Min Lu, Sang Tran, __<u>Iori Sasaki</u>__, and Masatoshi Arikawa (2024). Bridging Traditional and Digital Cartography: Techniques in Dynamic Local Georeferencing, _AsiaCarto2024_.
+1. Min Lu, Sang Tran, __<u>Iori Sasaki</u>__, and Masatoshi Arikawa (2024). Bridging Traditional and Digital Cartography: Techniques in Dynamic Local Georeferencing, _AsiaCarto2024_. [Just accepted]
 
-1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Geofence-to-Conversation: Hierarchical Geofencing for Augmenting City Walks with Large Language Models, _26th International Conference on Mobile Human-Computer Interaction (MOBILEHCI Adjunct ’24)_, Melbourne, VIC, Australia, September 30-October 3, 2024. [https://doi.org/10.1145/3640471.3680446](https://doi.org/10.1145/3640471.3680446)
+1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, Tomihiro Utsumi, and Ryo Sato (2024). Geofence-to-Conversation: Hierarchical Geofencing for Augmenting City Walks with Large Language Models, _26th International Conference on Mobile Human-Computer Interaction (MOBILEHCI Adjunct ’24)_, Melbourne, VIC, Australia, September 30-October 3, 2024. [https://doi.org/10.1145/3640471.3680446](https://doi.org/10.1145/3640471.3680446) [Just aceepted]
 
 1. __<u>Iori Sasaki</u>__, Masatoshi Arikawa, Min Lu, and Ryo Sato (2023). Educational Potential of Map Storytelling Creation using Data Objects-Driven Mobile Mapping Toolkit – KoPpoMai, 31st International Cartographic Conference (ICC2023), Cape Town, South Africa, 13–18 August 2023, _Abstracts of the ICA_, 6:1-2. [https://doi.org/10.5194/ica-abs-6-220-2023](https://doi.org/10.5194/ica-abs-6-220-2023)
 
@@ -204,8 +204,14 @@ Currently pursuing a Ph.D.
     * 「GPSセンサーとイラストマップを用いた位置情報サービス(LBS)入門」
     * Introduction to location-based services using GPS sensors and illustrated maps
 
+* __Assistant Lecturer of Academic Internship for Noshiro High School__ (July 2023)
+    * 「iOSアプリの仕組みと作り方」
+
 * __Support Staff of One-Day College for Honjo High School__　(2022.07.06)
     * 本荘高校出前講義の補助
+
+* __Lecturer in iOS Programming Seminar__ for newly assigned students in the Arikawa Lab (April 2022)
+    * The material is released on [GitHub repository](https://github.com/Io-33kyanite/WalkingLogger_app)
 
 * __Teaching Assistant__ - "Labratory for Computer Science and Engineering II/情報工学実験II" at Akita University (2021)
     * Assisted undergraduate students with learning the basics of machine language, image processing, embedded system, packet analysis, CG creation, etc...
@@ -222,6 +228,8 @@ Currently pursuing a Ph.D.
 * __Research Exhibition__ with NTT East Corp. in Akita City festival (2024.05.25-26)
     * これが秋田だ！食と芸能大祭典2024
 
+* __Research Presentation__ during a courtesy visit by representatives from VIVES University of Applied Sciences. (December 2022)
+
 * __Application Release__ cooperated with Akita City (2022-)
     * きつねあるき（Kitsune-aruki）
     * Tailored for self-guided walking tourism in Akita City
@@ -233,3 +241,17 @@ Currently pursuing a Ph.D.
 
 * __Opening Presentation__ in ICA Joint Workshop on Future Internet and Ubiquitous Cartography (2019)
     * Titled "Akita City is A Typical Samurai Castle Town"
+
+<br><br>
+
+---
+
+## <center>Editorial Activities</center>
+
+* [reviewer] MDPI Remote Sensing
+    * 2024
+* [reviewer] Environment and Planning B: Urban Analytics and City Science
+    * 2022
+* [reviewer] W2GIS 2020
+    * 2020, 2020, 2020
+
