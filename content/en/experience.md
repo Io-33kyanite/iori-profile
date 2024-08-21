@@ -22,7 +22,7 @@ sections:
   - block: markdown
     content:
       title: Professional Membership
-      text: |
+      text:
 * Association for Computing Machinery (ACM)
 * The Institute of Electrical and Electronics Engineers (IEEE)
 * 情報処理学会 (IPSJ, Information Processing Society of Japan)
