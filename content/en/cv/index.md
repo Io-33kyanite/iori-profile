@@ -40,12 +40,6 @@ __🧑‍💻 For a detailed overview of my programming skills and portfolio, pl
 </div>
 </div>
 
-<div class="github-link">
-  <i class="fab fa-github-square"></i>
-  <a href="https://github.com/Io-33kyanite" target="_blank">Io-33kyanite</a>
-</div>
-<img src="https://grass-graph.moshimo.works/images/Io-33kyanite.png?rotate=270&width=568&height=88">
-
 ---
 
 ## <center>International Publications</center>
