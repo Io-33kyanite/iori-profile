@@ -59,7 +59,7 @@ interests:
   - Tourism informatics
 
 education:
-  - area: PhD Engineering
+  - area: PhD in Engineering
     institution: Akita University
     date_start: 2022-04-01
     date_end: ''
@@ -70,7 +70,7 @@ education:
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      ---
+      Minor program in the Graduate School of Engineering. The curriculum consists of three components: Management, Manufacturing-Venture, and Management Strategy.
   - area: Master of Engineering
     institution: Akita University
     date_start: 2020-04-01

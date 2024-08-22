@@ -1,6 +1,8 @@
 ---
 title: Academic CV
 reading_time: false
+pager: false
+share: false
 ---
 
 
@@ -119,13 +121,10 @@ __🧑‍💻 For a detailed overview of my programming skills and portfolio, pl
 1. __<u>佐々木一織</u>__，有川正俊，Lu Min，内海富博，佐藤諒：まち歩き向け位置情報サービス改善のためのセンサデータ駆動型ライフサイクルの実証，日本地図学会機関紙「地図」（2024）<span style="opacity:0.6;">[Accepted]</span>
     * <span style="opacity:0.6; font-size:90%;">[Engish Title] Verification of Sensor Data-Driven Lifecycle for Improvement of Location-Based Services in Walking Tourism</span>
 
-### Full Paper (peer-reviewed)
+<!-- ### Full Paper (peer-reviewed) -->
 
-no data...
+<!-- ### Abstract (peer-reviewed) -->
 
-### Abstract (peer-reviewed)
-
-no data...
 
 ### MISC
 
@@ -208,15 +207,15 @@ Currently pursuing a Ph.D.
 
 ## <center>Award</center>
 
-* ACM SIGSPATIAL 2022 Travel Grant Award (2022.11)
+* ACM SIGSPATIAL 2022 Travel Grant Award (November, 2022)
 
-* 令和3年度 秋田大学研究科長表彰 (2022.03)
+* 令和3年度 秋田大学研究科長表彰 (March, 2022)
 
-* 学生奨励賞 受賞．情報処理学会第83回全国大会 (2021.03)
+* 学生奨励賞 受賞．情報処理学会第83回全国大会 (March, 2021)
 
-* 令和2年度 秋田大学研究科長表彰 (2021.03)
+* 令和2年度 秋田大学研究科長表彰 (March, 2021)
 
-* 学生奨励賞 受賞．情報処理学会第82回全国大会 (2020.03)
+* 学生奨励賞 受賞．情報処理学会第82回全国大会 (March 2020)
 
 <br><br>
 
@@ -224,33 +223,46 @@ Currently pursuing a Ph.D.
 
 ## <center>Educational Activities</center>
 
-* __Teaching Assistant__ - "Creative Practice/創造工房実習" at Akita University　(2020-2024)
+### Public Lectures
 
-* __Support Staff for Akita University Schooling__ - "Intro. to Information Engineering/情報工学概論" (2024.07.20)
+* __Support Staff__ - Akita University Schooling (July 20, 2024)
     * 秋田大学学内スクーリングの補助
+    * "Intro. to Information Engineering/情報工学概論"
 
-* __Teaching Assistant__ - "基礎情報学" at Akita University　(2020, 2023)
-    * Assisted undergraduate students with the fundamental Python programming
-
-* __Support Staff of Science Lab. for Honjo High School__　(2023)
+* __Support Staff__ - Science Lab for Honjo High School　(December 26, 2023)
     * 本荘高校サイエンスラボの補助
-    * 「GPSセンサーとイラストマップを用いた位置情報サービス(LBS)入門」
-    * Introduction to location-based services using GPS sensors and illustrated maps
+    * GPSセンサーとイラストマップを用いた位置情報サービス(LBS)入門/Introduction to location-based services using GPS sensors and illustrated maps
 
-* __Assistant Lecturer of Academic Internship for Noshiro High School__ (July 2023)
+* __Assistant Lecturer__ - Academic Internship for Noshiro High School (July 26, 2023)
+    * 能代高校インターンシップの補助
     * 「iOSアプリの仕組みと作り方」
 
-* __Support Staff of One-Day College for Honjo High School__　(2022.07.06)
+* __Support Staff__ - One-Day College for Honjo High School　(July 06, 2022)
     * 本荘高校出前講義の補助
 
-* __Lecturer in iOS Programming Seminar__ for newly assigned students in the Arikawa Lab (April 2022)
-    * The material is released on [GitHub repository](https://github.com/Io-33kyanite/WalkingLogger_app)
+* __Support Staff__ - Academic Internship for Noshiro High School (July 28, 2021)
+    * 能代高校インターンシップの補助
+    * 「"私の位置"から"観光体験"をつくるGPSデータコミュニケーション」
 
-* __Teaching Assistant__ - "Labratory for Computer Science and Engineering II/情報工学実験II" at Akita University (2021)
+
+### Teaching Assistant
+
+* Creative Practice/創造工房実習 - Akita University (2020-2024)
+
+* Fundamental Informatics/基礎情報学 - Akita University (2020, 2023-2024)
+    * Assisted undergraduate students with the fundamental Python programming
+
+* Labratory for Computer Science and Engineering II/情報工学実験II" - Akita University (2021)
     * Assisted undergraduate students with learning the basics of machine language, image processing, embedded system, packet analysis, CG creation, etc...
 
-* __Teaching Assistant__ - "Data Mining/データマイニング" at Akita University (2020)
+* Data Mining/データマイニング - Akita University (2020)
     * Assisted undergraduate students with leaning R language and methods for data operation, analysis, and visualization.
+
+### Others
+
+* __Lecturer in iOS Programming Seminar__ for newly assigned students in the Arikawa Lab (April, 2022)
+    * The material is released on [GitHub repository](https://github.com/Io-33kyanite/WalkingLogger_app)
+
 
 <br><br>
 
@@ -258,22 +270,30 @@ Currently pursuing a Ph.D.
 
 ## <center>Social Activities</center>
 
-* __Research Exhibition__ with NTT East Corp. in Akita City festival (2024.05.25-26)
+### Outreach
+
+* __Research Exhibition__ with NTT East Corp. in Akita City festival (May 25-26, 2024)
     * これが秋田だ！食と芸能大祭典2024
 
-* __Research Presentation__ during a courtesy visit by representatives from VIVES University of Applied Sciences. (December 2022)
+* __Research Presentation__ during a courtesy visit by representatives from VIVES University of Applied Sciences. (December 06, 2022)
 
-* __Application Release__ cooperated with Akita City (2022-)
-    * きつねあるき（Kitsune-aruki）
-    * Tailored for self-guided walking tourism in Akita City
-
-* __Application Release__ for the Open Campus in Akita University (2022-2023)
-    * Location-based walking guide in Tegata Campus of Akita University
-    * TegaWalk (2022, main developer)
-    * TegaRally (2023, technical adviser)
-
-* __Opening Presentation__ in ICA Joint Workshop on Future Internet and Ubiquitous Cartography (2019)
+* __Opening Presentation__ in ICA Joint Workshop on Future Internet and Ubiquitous Cartography (July 13, 2019)
     * Titled "Akita City is A Typical Samurai Castle Town"
+
+
+### Application Release
+
+* __TegaRally__ (2023, technical adviser)
+    * Developed for the Open Campus in Akita University
+    * Location-based stamp rally in Tegata Campus of Akita University
+
+* __TegaWalk__ (2022, main developer)
+    * Developed for the Open Campus in Akita University
+    * Location-based walking guide in Tegata Campus of Akita University
+
+* __きつねあるき/Kitsune-aruki__ (2022-, main developer)
+    * Tailored for self-guided walking tourism in Akita City
+    * Cooperated with Akita City
 
 <br><br>
 
@@ -281,10 +301,12 @@ Currently pursuing a Ph.D.
 
 ## <center>Editorial Activities</center>
 
-* [reviewer] MDPI Remote Sensing
+### Reviewer
+
+* MDPI, Remote Sensing
     * 2024
-* [reviewer] Environment and Planning B: Urban Analytics and City Science
+* Sage Journals, Environment and Planning B: Urban Analytics and City Science
     * 2022
-* [reviewer] W2GIS 2020
+* International Symposium on Web and Wireless Geographical Information Systems (W2GIS)
     * 2020, 2020, 2020
 

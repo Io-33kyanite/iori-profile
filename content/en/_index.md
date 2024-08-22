@@ -60,13 +60,13 @@ sections:
 
         <p style="font-size:90%; text-align:justify"><span style="font-weight: bold;">From the Tourist's Perspective:</span> Walking tourism greatly enhances both personal health and cultural exploration. It is a low-impact exercise that improves cardiovascular health, strengthens muscles, and reduces stress and anxiety. Furthermore, walking allows tourists to deeply engage with their surroundings, fostering genuine interactions with locals and uncovering hidden cultural gems.</p>
 
-        <p style="font-size:90%; text-align:justify; color:gray;">"We have nothing special to visit in my hometown..."</p>
+        <p style="font-size:90%; text-align:justify; color:gray;">"There is nothing special to visit in my hometown..."</p>
         
         <p style="font-size:90%; text-align:justify; color:gray;">"Actually, the real voyage of discovery consists not in seeking new landscapes, but in having new 'digital' eyes."</p>
 
         ---
 
-        #### ◉ Thematic Heatmapping and Scoring Methods for Developments of Walking Routes (2022–)
+        #### ◉ Thematic Heatmapping and Scoring Methods for Developments of Walking Routes (2021–)
 
         <img width="100%" src="home/graphical-abstract-topic1.png">
 
