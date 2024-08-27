@@ -11,7 +11,7 @@ last_name: Sasaki
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🚴
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Student
+role: 博士後期課程学生
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Akita University
+  - name: 秋田大学
     url: https://top.ie.akita-u.ac.jp/lab/
 
 # Social network links
@@ -52,41 +52,35 @@ membership:
   - 日本地図学会（JCA, Japan Cartographers Association）
 
 interests:
-  - Mobile Computing
-  - Geofencing
-  - Trajectory Data Mining
-  - Cartography
-  - Tourism informatics
+  - モバイルコンピューティング
+  - ジオフェンシング
+  - GPS軌跡データマイニング
+  - 地図学
+  - 観光情報学
 
 education:
-  - area: PhD in Engineering
-    institution: Akita University
-    date_start: 2022-04-01
-    date_end: ''
-    summary: |
-      Currently pursuing a Ph.D. Supervised by Prof. Masatoshi Arikawa.
-  - area: Management of Technology Program
-    institution: Akita University
+  - area: 技術経営（MoT）
+    institution: 秋田大学
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
       Minor program in the Graduate School of Engineering. The curriculum consists of three components: Management, Manufacturing-Venture, and Management Strategy.
-  - area: Master of Engineering
-    institution: Akita University
+  - area: 修士（工学）
+    institution: 秋田大学
     date_start: 2020-04-01
     date_end: 2022-03-31
     summary: |
-      Arikawa Lab.
-  - area: Bachelor of Engineering
-    institution: Akita University
+      有川研究室
+  - area: 学士（工学）
+    institution: 秋田大学
     date_start: 2016-04-01
     date_end: 2020-03-31
     summary: |
-      Arikawa Lab.
+      有川研究室
 
 work:
-  - position: Research Fellow (DC1)
-    company_name: Japan Society for the Promotion of Science
+  - position: 特別研究員 (DC1)
+    company_name: 日本学術振興会
     company_url: ''
     company_logo: ''
     date_start: 2022-04-01
@@ -96,6 +90,6 @@ work:
 
 ---
 
-## About Me
+## こんにちは！
 
-Hello, I’m Iori Sasaki, a PhD student at Akita University in Japan, specializing in spatial informatics. Since 2022, I have been honored to serve as a research fellow with the Japan Society for the Promotion of Science (JSPS). In my free time, I enjoy mobile programming and cycling, which help me maintain a balanced life.
+日本の秋田大学で空間情報学を専攻する博士課程の学生です。2022年から日本学術振興会（JSPS）の特別研究員として採用されています。休みの日は、モバイルプログラミングやサイクリングを楽しんでいます。
