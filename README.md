@@ -1,5 +1,5 @@
 
-# iori-profile
+# sasaki
 This is a website for iori's profile hosted on GitHub Page.
 
 PhD Student in Akita University, Japan.
