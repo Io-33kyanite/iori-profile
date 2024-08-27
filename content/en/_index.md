@@ -82,7 +82,7 @@ sections:
 
         <img width="100%" src="home/graphical-abstract-topic2.png">
 
-        <p style="font-size:90%; text-align:justify">The core technology of proactive LBSs is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for tourists' mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.</p>
+        <p style="font-size:90%; text-align:justify">The core technology of proactive location-based services is known as geofencing. Geofencing utilizes virtual boundaries, i.e., geofences, to monitor user’s entry and exit, and then triggers place-related services such as sending coupons and playing audio guides automatically. The purpose of this research is to formulate geofence design problems for tourists' mobility and to develop data-driven computational solutions. These solutions leverage mobile sensor data to comprehend dynamic and complex human mobility patterns.</p>
 
         <p style="font-size:70%; text-align:left; font-weight: bold;">references:</p>
         <p style="font-size:70%; text-align:left;">[1] Sasaki et al. (2020). Data-Driven Geofencing Design for POI Notifiers Utilizing Genetic Algorithm. ISPRS Int. J. Geo-Inf. 13(6):174. <a href="https://doi.org/10.3390/ijgi13060174">https://doi.org/10.3390/ijgi13060174</a></p>
