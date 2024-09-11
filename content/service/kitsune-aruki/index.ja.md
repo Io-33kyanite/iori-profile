@@ -3,7 +3,7 @@ title: きつねあるき
 date: 2024-07-25
 authors:
     - admin
-tag:
+tags:
     - Mobile App
     - iOS
     - Swift

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 佐々木 一織
+title: Iori Sasaki
 
 # Name pronunciation (optional)
-name_pronunciation: Iori Sasaki
+# name_pronunciation: SASAKI, Iori
 
 # Full name (for SEO)
 first_name: Iori

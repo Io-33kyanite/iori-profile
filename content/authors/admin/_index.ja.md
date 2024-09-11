@@ -3,7 +3,7 @@
 title: 佐々木 一織
 
 # Name pronunciation (optional)
-name_pronunciation: Iori Sasaki
+name_pronunciation: SASAKI, Iori
 
 # Full name (for SEO)
 first_name: Iori
@@ -59,7 +59,13 @@ interests:
   - 観光情報学
 
 education:
-  - area: 技術経営（MoT）
+  - area: 博士後期課程 在学中
+    institution: 秋田大学
+    date_start: 2022-04-01
+    date_end: ''
+    summary: |
+      空間情報学
+  - area: Management of Technology (副専攻プログラム)
     institution: 秋田大学
     date_start: 2020-04-01
     date_end: 2022-03-31
@@ -92,4 +98,4 @@ work:
 
 ## こんにちは！
 
-日本の秋田大学で空間情報学を専攻する博士課程の学生です。2022年から日本学術振興会（JSPS）の特別研究員として採用されています。休みの日は、モバイルプログラミングやサイクリングを楽しんでいます。
+日本の秋田大学で空間情報学を専攻する博士課程の学生です．2022年から日本学術振興会（JSPS）の特別研究員として採用されています．休みの日は，モバイルプログラミングやサイクリングを楽しんでいます．
