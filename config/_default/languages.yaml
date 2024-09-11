@@ -6,13 +6,13 @@
 en:
   # baseURL: https://io-33kyanite.github.io/sasaki/
   languageCode: en-us
-  contentDir: content/en
+  contentDir: content/tmp
 
 # Uncomment the lines below to configure your website in a second language.
 ja:
-  baseURL: https://io-33kyanite.github.io/sasaki/ja/
+  # baseURL: https://io-33kyanite.github.io/sasaki/ja/
   languageCode: ja-jp
-  contentDir: content/ja
+  contentDir: content/tmp
   title: Iori' Profile
   params:
     description: 'Ioriのプロフィール'
