@@ -12,7 +12,7 @@ en:
 ja:
   # baseURL: https://io-33kyanite.github.io/sasaki/
   languageCode: ja-jp
-  contentDir: content/
+  # contentDir: content/
   title: Iori' Profile
   params:
     description: 'Ioriのプロフィール'
