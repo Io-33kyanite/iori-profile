@@ -10,7 +10,7 @@ en:
 
 # Uncomment the lines below to configure your website in a second language.
 ja:
-  baseURL: https://github.com/Io-33kyanite/sasaki
+  # baseURL: https://github.com/Io-33kyanite/sasaki/ja
   languageCode: ja-jp
   contentDir: content/
   title: Iori' Profile
